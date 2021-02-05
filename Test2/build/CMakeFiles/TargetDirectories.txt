@@ -1,0 +1,3 @@
+/home/snack/Рабочий стол/Test2/build/CMakeFiles/rebuild_cache.dir
+/home/snack/Рабочий стол/Test2/build/CMakeFiles/Test2.dir
+/home/snack/Рабочий стол/Test2/build/CMakeFiles/edit_cache.dir

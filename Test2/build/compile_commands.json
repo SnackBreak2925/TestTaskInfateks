@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/snack/Рабочий стол/Test2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -g -o CMakeFiles/Test2.dir/Test2.cpp.o -c \"/home/snack/Рабочий стол/Test2/Test2.cpp\"",
+  "file": "/home/snack/Рабочий стол/Test2/Test2.cpp"
+},
+{
+  "directory": "/home/snack/Рабочий стол/Test2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -g -o CMakeFiles/Test2.dir/server.cpp.o -c \"/home/snack/Рабочий стол/Test2/server.cpp\"",
+  "file": "/home/snack/Рабочий стол/Test2/server.cpp"
+}
+]

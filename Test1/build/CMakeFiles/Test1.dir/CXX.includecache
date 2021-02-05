@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/snack/Рабочий стол/Test1/client.cpp
+client.h
+/home/snack/Рабочий стол/Test1/client.h
+iostream
+-
+
+/home/snack/Рабочий стол/Test1/client.h
+string
+-
+ws2tcpip.h
+-
+WinSock2.h
+-
+Windows.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+string.h
+-
+fcntl.h
+-
+

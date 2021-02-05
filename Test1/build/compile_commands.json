@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/snack/Рабочий стол/Test1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -pthread -g -o CMakeFiles/Test1.dir/Test1.cpp.o -c \"/home/snack/Рабочий стол/Test1/Test1.cpp\"",
+  "file": "/home/snack/Рабочий стол/Test1/Test1.cpp"
+},
+{
+  "directory": "/home/snack/Рабочий стол/Test1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -pthread -g -o CMakeFiles/Test1.dir/container.cpp.o -c \"/home/snack/Рабочий стол/Test1/container.cpp\"",
+  "file": "/home/snack/Рабочий стол/Test1/container.cpp"
+},
+{
+  "directory": "/home/snack/Рабочий стол/Test1/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -std=c++11 -pthread -g -o CMakeFiles/Test1.dir/client.cpp.o -c \"/home/snack/Рабочий стол/Test1/client.cpp\"",
+  "file": "/home/snack/Рабочий стол/Test1/client.cpp"
+}
+]
